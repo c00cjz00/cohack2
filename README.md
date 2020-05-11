@@ -1,4 +1,4 @@
-# FLY2
+# FLY2 各國復航評估平台
 根據約翰霍普金斯大學所提供的各國即時確診數據，建置台灣與各國復航評估平台FLY2，系統平台以簡易的紅黃綠燈號，標示台灣與各國家間抵達復飛門檻的距離, 提供決策者重啟國際交流及經濟活動的一最新參考指標。
 ![alt text](https://github.com/c00cjz00/cohack2/blob/master/fly3.jpg "Demo")
 ![alt text](https://github.com/c00cjz00/cohack2/blob/master/fly2.png "Demo")
