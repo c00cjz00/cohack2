@@ -35,7 +35,7 @@ https://github.com/c00cjz00/cohack2
 
 ## 提案補充說明URL(如：提案概念影片、簡報等) *
 簡報
-https://docs.google.com/presentation/d/1cOgTHSxBDyDFIOlIUP5qcf1EsIVSQs3f_U7PlpDhcZI/edit#slide=id.p
+https://www.youtube.com/watch?v=tgXcOuE13Nc
 
 ## 對本次台美防疫松(cohack)是否有其他建議？
 徵求題目說明內容太過於先進，無法讓參賽者一眼明顯主辦單位的用意，建議可以採用HACKMD等呈現模式，簡化說明內容。
