@@ -1,9 +1,6 @@
 # FLY2
-根據約翰霍普金斯大學所提供的各國即時確診數據, 建置台灣與各國復航評估平台FLY2, 系統平台以簡易的紅黃綠燈號, 標示台灣與各國家間抵達復飛門檻的距離, 提供決策者重啟國際交流的一參考指標
+根據約翰霍普金斯大學所提供的各國即時確診數據，建置台灣與各國復航評估平台FLY2，系統平台以簡易的紅黃綠燈號，標示台灣與各國家間抵達復飛門檻的距離, 提供決策者重啟國際交流的一最新參考指標。
 
-可評估台灣當前
-個即時統一的新聞串流平台，利用大數據資訊整合解析資訊，並快速的生成報表與通知，提供開放式的API讓所有的開發者可以自行應用。
-Demo Map: 
 ![alt text](https://github.com/c00cjz00/cohack2/blob/master/fly.png "Demo")
 
 ## 300個字內的概念說明（包含解決問題標的、技術應用說明、預期擴大應用之成效）。
@@ -21,25 +18,12 @@ Demo Map:
 
 ## 目前掌握了哪些相關資料？(例如資料的時間區間、資料格式、資料欄位、資料筆數、資料蒐集方法等)。
 ### 各國資料
-1. 台灣政府資料開放平台：https://data.gov.tw/
-2. 香港政府數據中心：https://data.gov.hk/en/
-3. 英國國家數據中心：https://data.gov.uk/
-4. 日本統計局：http://www.stat.go.jp/
-5. 中國國家數據中心：http://data.stats.gov.cn/
-6. 美國政府開放資料：https://www.data.gov/
-7. 歐盟資料平台：https://www.europeandataportal.eu/
-資料來源大多是文字csv, json, xml, rss feed等等，可以有效地取得timestamp, data source, reference，以台灣政府資料開放平臺為例，許多部門都是採用Json每天更新的方式發布新聞稿，新聞比數約略百筆，自然語言分析可有效地了解新聞內容的關鍵字與趨勢。
-
-### 世界組織統計資料
-1. 世界經濟貿易合作組織資料庫：https://data.oecd.org/
-2. 世界銀行開放資料：https://data.worldbank.org.cn/
-3. 世界衛生組織：http://apps.who.int/gho/data/node.home
-### 企業/平台資料庫
-1. github：https://github.com/awesomedata/awesome-public-datasets
-2. Youtube資料集：https://research.google.com/youtube8m/index.htm
-3. GOOGLE開放資料搜索：http://www.google.com/publicdata/directory?hl=en_US&dl=en_USl
-4. Google趨勢搜索：https://trends.google.com/trends/?geo=US
-5. 亞馬遜aws：https://aws.amazon.com/cn/datasets/
+1. 台灣衛福部疾管署：https://www.cdc.gov.tw/
+2. 台灣政府資料開放平台：https://data.gov.tw/
+3. 約翰霍普金斯大學 CSSE：https://github.com/CSSEGISandData/COVID-19
+4. 美國國家衛生研究院 NIH： https://www.nih.gov/
+5. 美國政府開放資料：https://www.data.gov/
+6. 歐盟資料平台：https://www.europeandataportal.eu/
 
 ## 是解決方案所需之必要資料，但尚未掌握的資料？
 想做大數據分析，需要有專業的人士進行資料分類，或是給予正確的label，才有辦法讓數據分析變得精確，這部分需要大量的人力幫忙，部分資料是可以採用unsupervised的方式進行label，但想要有精確且具意義的預測，如果可以結合官部門以及民間的feedback作為資料的label，將會是讓這些大數據資料變得更有意義的事情。
