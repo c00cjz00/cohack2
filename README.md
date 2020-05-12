@@ -15,7 +15,6 @@
 
 
 ## &#x1F534; 相關媒體資料佐證
-- text in red 123
 ![alt text](https://github.com/c00cjz00/cohack2/blob/master/fly4.jpg "Demo3")
 
 ## 300個字內的概念說明（包含解決問題標的、技術應用說明、預期擴大應用之成效）。
