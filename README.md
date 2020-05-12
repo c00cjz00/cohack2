@@ -1,6 +1,6 @@
 # FLY2 各國復航評估平台
 ### 網址: https://covid-19.nchc.org.tw/dt_006-multipleCountry.php
-### 教學: https://www.youtube.com/watch?v=fk5uR31fAt8
+### 教學: https://www.youtube.com/watch?v=iYHaWVvjmkQ
 根據約翰霍普金斯大學所提供的各國即時確診數據，建置台灣與各國復航評估平台FLY2，系統平台以簡易的紅黃綠燈號，標示台灣與各國家間抵達復飛門檻的距離, 提供決策者重啟國際交流及經濟活動的一最新參考指標。
 ![alt text](https://github.com/c00cjz00/cohack2/blob/master/fly3.jpg "Demo")
 ![alt text](https://github.com/c00cjz00/cohack2/blob/master/fly2.png "Demo")
@@ -37,7 +37,7 @@ https://github.com/c00cjz00/cohack2
 
 ## 提案補充說明URL(如：提案概念影片、簡報等) *
 簡報
-https://www.youtube.com/watch?v=fk5uR31fAt8
+https://www.youtube.com/watch?v=iYHaWVvjmkQ
 
 ## 對本次台美防疫松(cohack)是否有其他建議？
 徵求題目說明內容太過於先進，無法讓參賽者一眼明顯主辦單位的用意，建議可以採用HACKMD等呈現模式，簡化說明內容。
