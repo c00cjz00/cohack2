@@ -10,11 +10,13 @@
 ## &#x1F534; 國際交流可行性評估
 ### &#x1F34E; 阿中說對香港疫情有信心
 ### &#x1F49B; FLY2平台評估台灣與香港的距離很近 
-### &#x1F4D8; 原來FLY2平台也懂得順時鐘唷!
+### &#x1F4D8; 原來FLY2平台也懂得順時鐘啦!
 ![alt text](https://github.com/c00cjz00/cohack2/blob/master/fly6.jpg "Demo2")
 
 
 ## &#x1F534; 相關媒體資料佐證
+### &#x1F34F; 阿中說對香港疫情有信心的新聞在此
+### &#x1F49C; FLY2平台也會繼續順時鐘唷!
 ![alt text](https://github.com/c00cjz00/cohack2/blob/master/fly4.jpg "Demo3")
 
 ## 300個字內的概念說明（包含解決問題標的、技術應用說明、預期擴大應用之成效）。
