@@ -8,7 +8,8 @@
 
 
 ## 國際交流可行性評估
-## &#x1F34E;: 阿中說對香港疫情有信心&#x1F49B;，原來FLY2平台也懂得順時鐘 &#x1F49C
+### &#x1F34E; 阿中說對香港疫情有信心
+### &#x1F49B; 原來FLY2平台也懂得順時鐘 &#x1F499 &#x1F49A; &#x1F49C
 ![alt text](https://github.com/c00cjz00/cohack2/blob/master/fly6.jpg "Demo2")
 
 
