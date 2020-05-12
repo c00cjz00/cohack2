@@ -3,18 +3,18 @@
 ### 教學: https://www.youtube.com/watch?v=iYHaWVvjmkQ
 根據約翰霍普金斯大學所提供的各國即時確診數據，建置台灣與各國復航評估平台FLY2，系統平台以簡易的紅黃綠燈號，標示台灣與各國家間抵達復飛門檻的距離, 提供決策者重啟國際交流及經濟活動的一最新參考指標。
 
-## COVID-19疫情數據收集
+## &#x1F534; COVID-19疫情數據收集
 ![alt text](https://github.com/c00cjz00/cohack2/blob/master/fly3.jpg "Demo1")
 
 
-## 國際交流可行性評估
+## &#x1F534; 國際交流可行性評估
 ### &#x1F34E; 阿中說對香港疫情有信心
 ### &#x1F49B; FLY2平台評估台灣與香港的距離很近 
 ### &#x1F4D8; 原來FLY2平台也懂得順時鐘唷!
 ![alt text](https://github.com/c00cjz00/cohack2/blob/master/fly6.jpg "Demo2")
 
 
-## 相關媒體資料佐證
+## &#x1F534; 相關媒體資料佐證
 - text in red 123
 ![alt text](https://github.com/c00cjz00/cohack2/blob/master/fly4.jpg "Demo3")
 
