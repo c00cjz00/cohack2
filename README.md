@@ -6,7 +6,7 @@
 ### COVID-19疫情數據收集
 ![alt text](https://github.com/c00cjz00/cohack2/blob/master/fly3.jpg "Demo1")
 
-### 國際交流可行性評估
+### RED APPLE (&#x1F34E;): 國際交流可行性評估 
 ![alt text](https://github.com/c00cjz00/cohack2/blob/master/fly6.jpg "Demo2")
 
 ### 相關媒體資料佐證
