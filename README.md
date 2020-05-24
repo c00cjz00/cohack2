@@ -10,7 +10,7 @@
 ### &#x1F34E; 我們當然選第一品牌的約翰霍普金斯大學
 ![alt text](https://github.com/c00cjz00/cohack2/blob/master/fly3.jpg "Demo1")
 
-## &#x1F534; 設定國際交流解禁距離單位
+## &#x1F534; 國際交流解禁評估單位
 ### &#x1F34E; 阿中部長說對，解禁一步步來，不要跌倒比較要緊
 ### &#x1F49B; 於是FLY2平台跟隨阿忠部長的腳步，把距離解禁的單位設定為「步」 
 ![alt text](https://github.com/c00cjz00/cohack2/blob/master/fly05.jpg "Demo2")
