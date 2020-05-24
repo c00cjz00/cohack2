@@ -3,8 +3,6 @@
 根據約翰霍普金斯大學所提供的各國即時確診數據，建置台灣與世界的社交距離平台FLY2，系統平台以簡易的紅黃綠燈號，標示台灣與各國家間重啟國際交流門檻的距離, 提供決策者重啟國際交流及經濟活動的一最新參考指標。
 
 #### 網址: https://covid-19.nchc.org.tw/dt_006-multipleCountry.php
-#### 教學: https://www.youtube.com/watch?v=iYHaWVvjmkQ
-
 
 ## &#x1F534; COVID-19疫情數據收集
 ### &#x1F536; 收集資料的標的非常重要
