@@ -1,4 +1,4 @@
-# FLY2 台灣與世界的社交距離
+# FLY2 台灣與國際社交距離計步器
 #### 網址: https://covid-19.nchc.org.tw/dt_006-multipleCountry.php
 
 ![alt text](https://github.com/c00cjz00/cohack2/blob/master/fly7.jpg "Demo1")
